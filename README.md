@@ -3,12 +3,12 @@ First repository
 
 ## Table of contents 
 
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [TOOLS USED](#Tools-Used)
-- [FILES USED](#files-used)
-- [HOW TO RUN PROGRAM](#how-to-run-program)
-- [ADDITIONAL INFORMATION](#additional-information)
+- [Project Title](#Project-Title)
+- [Description](#Description)
+- [Tools Used](#Tools-Used)
+- [Files Used](#files-used)
+- [How to Run Program](#how-to-run-program)
+- [Additional Information](#additional-information)
 
 ## Project Title
 
