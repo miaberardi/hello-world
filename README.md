@@ -3,8 +3,8 @@ First repository
 
 ## Table of contents 
 
-- [Project Title](#project-Title)
-- [Description](#description)
+- [**Project Title](#project-Title)
+- [**Description](#description)
 - [Tools Used](#tools-Used)
 - [Files Used](#files-used)
 - [How to Run Program](#how-to-run-program)
