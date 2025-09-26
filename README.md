@@ -12,7 +12,7 @@
 
 ## **Project Title**
 
-__"Hello World Sample - My First Respository"__
+_"Hello World Sample - My First Respository"_
 
 ## **Description**
 
