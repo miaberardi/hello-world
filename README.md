@@ -1,7 +1,7 @@
 # hello-world
 First repository
 
-## **Table of contents**
+## **Table of Contents**
 
 - [Project Title](#project-Title)
 - [Description](#description)
