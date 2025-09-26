@@ -1,7 +1,7 @@
 # hello-world
 First repository
 
-## Table of contents 
+## **Table of contents**
 
 - [Project Title](#project-Title)
 - [Description](#description)
@@ -10,16 +10,16 @@ First repository
 - [How to Run Program](#how-to-run-program)
 - [Additional Information](#additional-information)
 
-## Project Title
+## **Project Title**
 
 "Hello World Sample - My First Respository"
 
-## Description
+## **Description**
 
-## Tools Used
+## **Tools Used**
 
-## Files Used
+## **Files Used**
 
-## How to Run Program
+## **How to Run Program**
 
-## Additional Information 
+## **Additional Information**
